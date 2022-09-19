@@ -12,6 +12,10 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+	<string>Need gallery permission</string>
+    <key>NSCameraUsageDescription</key>
+	<string>Need camera permission</string>
 	<key>CFBundleName</key>
 	<string>chat_app</string>
 	<key>CFBundlePackageType</key>
